@@ -69,7 +69,7 @@ Overall Boomi process to fetch records from HubSpot using Pagination, and send t
 ![image](https://user-images.githubusercontent.com/12267939/177538187-7c542750-1f79-4ea3-b45f-b7c008a193b0.png)
 
 
-**Step-3:** Convert normal date value to EPOCH date value. This is required because HubSpot accepts only EPOCH date in Search query.
+**Step-3:** Convert normal date value to EPOCH date value. Please refer "Normal Date to EPOCH Date.js" file for the conversion code. This is required because HubSpot accepts only EPOCH date in Search query.
 
 ![image](https://user-images.githubusercontent.com/12267939/177538207-8a82997a-e89d-417e-8d16-922885a7abf0.png)
 
