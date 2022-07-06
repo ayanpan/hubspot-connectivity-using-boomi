@@ -1,0 +1,16 @@
+'{
+    "filterGroups":[
+      {
+        "filters":[
+          {
+            "propertyName": "’{1}’",
+            "operator": "’{2}’",
+            "value": "’{3}’"
+          }
+        ]
+      }
+    ],
+    "properties": [ "email", "phone", "firstname", "lastname" ],
+    "limit": "’{4}’",
+    "after": "’{5}’"
+}'

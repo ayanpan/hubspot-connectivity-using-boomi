@@ -1,0 +1,13 @@
+{
+   "filterGroups": [
+      {
+         "filters": [
+            {
+               "propertyName": "lastmodifieddate",
+               "operator": "GTE",
+               "value": "1644862307000"
+            }
+         ]
+      }
+   ]
+}
