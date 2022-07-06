@@ -121,7 +121,7 @@ Below is the sample Postman screenshot.
 ![image](https://user-images.githubusercontent.com/12267939/177538654-81fdf889-5b1c-4042-a900-0dc847124627.png)
 
 
-**Sample URL:** https://api.hubapi.com/contacts/v1/contact/createOrUpdate/email/test@hubspot.com/?hapikey=<value>
+**Sample URL:** https://api.hubapi.com/contacts/v1/contact/createOrUpdate/email/test@hubspot.com/?hapikey=hubspot_api_key_value
 where, test@hubspot.com is the email-id which needs to UPSERT, and “createOrUpdate” value in URL is to implement UPSERT operation.
   
 **Sample Request Payload:** Please refer "Sample Request Payload.json" file.
